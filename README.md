@@ -1,10 +1,17 @@
 Youtube'da , Murat Yücedağ'ın eğitmenimiz olduğu ve Asp.Net Core 5.0 ile geliştirme yaptığımız(ben 8.0 kullandım ) 150 dersi tamamladım. 
 Kamp kapsamında Blog projesi geliştirdik. Bize kattıklarından ve emeklerinden dolayı Murat Yücedağ hocama çok teşekkür ederim.
 
+**Projenin Genel Genel Amacı:** 
+<ul>
+  <li>Asp.Net Core yapısını </li>
+    <li>Partial View, View Componenti </li>
+    <li> Web Api Apilerin ne işe yaradığını </li>
+    <li> Identit kütüphanesinin ne işe yaradığını ve nasıl kullanıldığını </li>
+    <li> Web token ile güvenliği sağlamayı  öğrenerek genel bir temel atmış oldum.</li>
 
+</ul>
 
-
-Kullandığım Teknolojiler:
+**Kullandığım Teknolojiler:**
 
 * 💻ASP.NET Core MVC - 8.0
 * 💻Entity Framework
@@ -17,7 +24,7 @@ Kullandığım Teknolojiler:
 * 💻Web token 
 
 
-Projeye ait görüntüller : 
+  Projeye ait görüntüller ⤵️ 
 
 Login Page
 ![Screenshot 2024-02-19 145645](https://github.com/muhammetkilinc15/BlogWebSite/assets/108901980/f9606e37-18e0-4573-b11a-6ba7fa16472e)
