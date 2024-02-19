@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "BlogListExcel";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>BlogListExcel</h1>
+
+<br />
+<button class="btn btn-primary" onclick="dowloandBlogListExcel()">Excel Listesini İndir</button>
+
+<script>
+    function dowloandBlogListExcel() {
+
+        window.open("/Admin/Blog/ExportDynamicList")
+    }
+</script>

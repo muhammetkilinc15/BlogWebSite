@@ -1,0 +1,60 @@
+﻿@using Asp.net_Core_Web_Application.Models
+@model UserUpdateViewModel
+@{
+	ViewData["Title"] = "WriterEditProfile";
+	Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+@using (Html.BeginForm("writerEditProfile", "writer", FormMethod.Post))
+{
+	<div class="col-12 grid-margin stretch-card">
+		<div class="card">
+			<div class="card-body">
+
+				<h4 class="card-title">Yazar Profil Bilgileri Düzenleme</h4>
+				<form class="forms-sample" method="post">
+					<div class="form-group">
+						<label for="exampleInputName1">Name</label>
+						@Html.TextBoxFor(x => x.nameSurname, new { @class = "form-control", @placeholder = "isminiz" })
+						@Html.ValidationMessageFor(x => x.nameSurname, "", new { @class = "text-danger" })
+					</div>
+					<div class="form-group">
+						<label for="exampleInputEmail3">Email address</label>
+						@Html.TextBoxFor(x => x.mail, new { @class = "form-control", @placeholder = "E-mail adresiniz" })
+						@Html.ValidationMessageFor(x => x.mail, "", new { @class = "text-danger" })
+					</div>
+					<div class="form-group">
+						<label for="exampleInputEmail3">Kullanıcı Adı</label>
+						@Html.TextBoxFor(x => x.userName, new { @class = "form-control", @placeholder = "E-mail adresiniz" })
+						@Html.ValidationMessageFor(x => x.userName, "", new { @class = "text-danger" })
+					</div>
+					<div class="form-group">
+						<label for="exampleInputPassword4">Yeni Şifreniz</label>
+						@Html.PasswordFor(x => x.password, new { @class = "form-control", @placeholder = "Şifreiniz" })
+						@Html.ValidationMessageFor(x => x.password, "", new { @class = "text-danger" })
+					</div>
+
+					<div class="form-group">
+						<label>Yazar Görsel</label>
+						<input type="file" name="img[]" class="file-upload-default">
+						<div class="input-group col-xs-12">
+							@Html.TextBoxFor(x => x.imageUrl, new { @class = "form-control", @placeholder = "Resminiz" })
+							<span class="input-group-append">
+								<button class="file-upload-browse btn btn-gradient-primary" type="button">Resin Seç</button>
+							</span>
+						</div>
+					</div>
+
+					@*   <div class="form-group">
+				<label for="exampleTextarea1">Yazar Hakkında</label>
+				@Html.TextAreaFor(x=>x.WriterAbout,10,3,new{@class="form-control",@placeholder="Hakkınızda..."})
+				@Html.ValidationMessageFor(x => x.WriterAbout, "", new { @class = "text-danger" })
+
+				</div> *@
+					<button type="submit" class="btn btn-gradient-primary mr-2">Güncelle</button>
+					<button class="btn btn-light">İptal</button>
+				</form>
+			</div>
+		</div>
+	</div>
+}

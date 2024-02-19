@@ -1,0 +1,28 @@
+﻿@model List<Class1>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+<table class="table">
+    <tr>
+        <th>#</th>
+        <th>Adı</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach(var item in Model){
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td><a href="/EmployeeTest/DeleteEmployee/@item.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/EmployeeTest/EditEmployee/@item.ID" class="btn btn-warning">Düzenle</a></td>
+          
+        </tr>
+    }
+</table>
+<br />
+<a href="/EmployeeTest/AddEmploye" class="btn btn-primary">Yeni Çalışan Ekle</a>

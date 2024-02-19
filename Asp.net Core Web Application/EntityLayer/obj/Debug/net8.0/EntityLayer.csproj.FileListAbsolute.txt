@@ -1,0 +1,38 @@
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll

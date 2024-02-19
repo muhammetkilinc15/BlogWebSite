@@ -1,0 +1,37 @@
+﻿@model EntityLayer.Concreate.Blog
+@{
+    ViewData["Title"] = "UpdateBlog";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<h1>Güncelleme Ekranı</h1>
+
+
+<form action="/Blog/UpdateBlog?id=@Model.BlogID" method="post">
+
+	@Html.Label("ID : " + Model.BlogID)
+	@Html.Label("Blog Başlığı")
+	@Html.TextBoxFor(x => x.BlogTitle, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.BlogTitle, "", new { @class = "text-danger" })
+	<br />
+	@Html.Label("Blog Görsel")
+	@Html.TextBoxFor(x => x.BlogImage, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.BlogImage, "", new { @class = "text-danger" })
+	<br />
+	@Html.Label("Blog Thumbnail Url ")
+	@Html.TextBoxFor(x => x.BlogThumbnailImage, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.BlogThumbnailImage, "", new { @class = "text-danger" })
+	<br />
+	@Html.Label("Kategori")
+	@Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+	<br />
+	@Html.Label("Blog İçeriği")
+	@Html.TextAreaFor(x => x.BlogContent, 10, 3, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.BlogContent, "", new { @class = "text-danger" })
+	<br />
+	<button type="submit" class="btn btn-primary">Blogu Güncelle</button>
+</form>
+
+
+
+

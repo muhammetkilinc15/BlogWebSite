@@ -1,0 +1,53 @@
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

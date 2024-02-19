@@ -1,0 +1,41 @@
+﻿@using EntityLayer.Concreate
+@model List<Blog>
+<div class="tech-btm">
+	<h3>Son Gönderiler</h3>
+	@foreach (var item in Model)
+	{
+		<div class="blog-grids row mb-3">
+			<div class="col-md-5 blog-grid-left">
+				<a href="/Blog/BLogDetails/@item.BlogID">
+					<img src="@item.BlogImage" class="card-img-top img-fluid" alt="">
+				</a>
+			</div>
+
+			<div class="col-md-7 blog-grid-right">
+				<h5>
+					<a href="/Blog/BLogDetails/@item.BlogID">
+						@if (item.BlogContent.Length >= 130)
+						{
+							<p class="card-text mb-3">
+
+								@item.BlogContent.Substring(0, item.BlogContent.Substring(0, 50).LastIndexOf(" "))...
+
+							</p>
+						}
+						else
+						{
+							<p class="card-text mb-3">
+								@item.BlogContent...
+							</p>
+						}
+					</a>
+				</h5>
+				<div class="sub-meta">
+					<span>
+						<i class="far fa-clock"></i> @DateTime.Parse(item.BlogCreateDate).ToString("dd-MM-yyyy")
+					</span>
+				</div>
+			</div>
+		</div>
+	}
+</div>

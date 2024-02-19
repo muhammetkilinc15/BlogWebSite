@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWEbToken_core.props" />
+</Project>

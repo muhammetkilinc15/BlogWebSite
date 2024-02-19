@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+@using EntityLayer.Concreate
+@model IEnumerable<Category>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+	<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+	 
+</head>
+<body>
+    <div class="container mt-3">
+        <div class="row">
+            <table class="table table-bordered">
+                <tr>
+                    <th> Category ID</th>
+                    <th> Category Name</th>
+                    <th> Category Situation</th>
+                    <th> Category Detail</th>
+                    <th> Category GÜncelle</th>
+                    <th> Category Sil</th>
+
+
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.CategoryID </td>
+                        <td>@item.CategoryName </td>
+                        <td>@item.CategoryStatus </td>
+                        <td>@item.CategoryDescription</td>
+                        <td><a href="#" class="btn btn-warning">Güncelle</a></td>
+                        <td><a href="#" class="btn btn-danger">Sil</a></td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>   
+</body>
+</html>

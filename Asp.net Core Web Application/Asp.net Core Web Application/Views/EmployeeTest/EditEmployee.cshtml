@@ -1,0 +1,18 @@
+﻿@model Class1
+@{
+    ViewData["Title"] = "EditEmployee";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Personel Güncelleme Sayfası With API</h1>
+
+<form method="post">
+
+    <label>Kullanıcı Adı</label>
+    <input type="text" asp-for="@Model.ID" disabled class="form-control"/>
+    <input type="text" asp-for="@Model.Name" class="form-control" />
+    <br />
+    <button type="submit" class="btn btn-outline-primary">Çalışanı Güncelle</button>
+
+</form>
+

@@ -1,0 +1,20 @@
+﻿@using Asp.net_Core_Web_Application.Areas.Admin.Models
+@model RoleViewModel
+@{
+	ViewData["Title"] = "AddRole";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Rol Ekleme Sayfası</h1>
+
+<form method="post">
+	<div class="form-group">
+		<label>Rol Başlığı</label>
+		<input type="text" name="name" class="form-control" />
+	</div>
+	@* <div asp-validation-summary="ModeOnly">
+
+	</div> *@
+	<button class="btn btn-primary" type="submit">Rolü Kaydet</button>
+
+</form>

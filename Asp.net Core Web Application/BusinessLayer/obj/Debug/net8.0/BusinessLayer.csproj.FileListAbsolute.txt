@@ -1,0 +1,53 @@
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Desktop\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.Net Core\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\mami\Documents\GitHub\ASP150Lesson\Asp.net Core Web Application\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

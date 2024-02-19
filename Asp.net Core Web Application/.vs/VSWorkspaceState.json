@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Asp.net Core Web Application",
+    "\\Asp.net Core Web Application\\Views",
+    "\\Asp.net Core Web Application\\Views\\Shared",
+    "\\Asp.net Core Web Application\\Views\\Shared\\Components",
+    "\\Asp.net Core Web Application\\Views\\Shared\\Components\\CategoryListDashboard",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Migrations",
+    "\\EntityLayer",
+    "\\EntityLayer\\Concreate"
+  ],
+  "SelectedNode": "\\EntityLayer\\Concreate\\Comment.cs",
+  "PreviewInSolutionExplorer": false
+}
