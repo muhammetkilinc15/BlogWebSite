@@ -7,7 +7,7 @@ Kamp kapsamında Blog projesi geliştirdik. Bize kattıklarından ve emeklerinde
     <li>Partial View, View Componenti </li>
     <li> Web Api Apilerin ne işe yaradığını </li>
     <li> Identit kütüphanesinin ne işe yaradığını ve nasıl kullanıldığını </li>
-    <li> Web token ile güvenliği sağlamayı  öğrenerek genel bir temel atmış oldum.</li>
+    <li> Web token ile güvenliği sağlamayı  öğrenmektir</li>
 
 </ul>
 
