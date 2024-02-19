@@ -1,5 +1,5 @@
 Youtube'da , Murat Yücedağ'ın eğitmenimiz olduğu ve Asp.Net Core 5.0 ile geliştirme yaptığımız(ben 8.0 kullandım ) 150 dersi tamamladım. 
-Bootcamp kapsamında Blog projesi geliştirdik. Bize kattıklarından ve emeklerinden dolayı Murat Yücedağ hocama çok teşekkür ederim.
+Kamp kapsamında Blog projesi geliştirdik. Bize kattıklarından ve emeklerinden dolayı Murat Yücedağ hocama çok teşekkür ederim.
 
 * Öğrendiğim Teknolojiler:
 ASP.NET Core MVC - 8.0
