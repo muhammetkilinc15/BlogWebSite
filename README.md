@@ -1,5 +1,4 @@
-Youtube'da , Murat Yücedağ'ın eğitmenimiz olduğu ve Asp.Net Core 5.0 ile geliştirme yaptığımız(ben 8.0 kullandım ) 150 dersi tamamladım. 
-Kamp kapsamında Blog projesi geliştirdik. Bize kattıklarından ve emeklerinden dolayı Murat Yücedağ hocama çok teşekkür ederim.
+# Blog Web Site
 
 **Projenin Genel Genel Amacı:** 
 <ul>
